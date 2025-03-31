@@ -47,9 +47,9 @@ namespace MyNewStudy
             if (symbol == '+')
             {
                 Console.WriteLine("Ваш результат: ");
-                Console.WriteLine(a+b);
+                Console.WriteLine(a + b);
             }
-            else if(symbol == '-')
+            else if (symbol == '-')
             {
                 Console.WriteLine("Ваш результат: ");
                 Console.WriteLine(a - b);
