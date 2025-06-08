@@ -30,6 +30,7 @@
     <projectFile>ShowStringAndSymbolAmountMethod/ShowStringAndSymbolAmountMethod.csproj</projectFile>
     <projectFile>Tinkoff/Tinkoff.csproj</projectFile>
     <projectFile>Triangle/Triangle.csproj</projectFile>
+    <projectFile>TryParse/TryParse.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -38,8 +39,6 @@
     <list default="true" id="491d5437-f726-4ef3-98af-2b1060ed17b6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpExamples/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSharpExamples.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpExamples.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polimorfism/Polimorfism.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Polymorphism/Polymorphism.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polimorfism/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Polymorphism/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,23 +56,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/andrew/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
-      "/Users/andrew/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
-      "/Users/andrew/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/andrew/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/andrew/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache&quot;,
+      &quot;/Users/andrew/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.ArrayRevert">
     <configuration name="ArrayRevert" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/ArrayRevert/bin/Debug/net5.0/ArrayRevert" />
