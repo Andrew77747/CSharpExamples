@@ -39,7 +39,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tinkoff", "Tinkoff\Tinkoff.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract", "JustTest\Abstract.csproj", "{1280AB19-EC9F-44ED-B535-05442043F90A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfism", "Polimorfism\Polimorfism.csproj", "{2CA97BD9-81FD-48B3-AAB5-49DB14EA568F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{2CA97BD9-81FD-48B3-AAB5-49DB14EA568F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadFromExcel", "ReadFromExcel\ReadFromExcel.csproj", "{00300DCE-0611-4B95-90AA-4E8957015E6E}"
 EndProject
